@@ -1,0 +1,2 @@
+(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[77],{883:function(a,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Discord.bc7a018c.svg"}}]);
+//# sourceMappingURL=77.6a2c9c37.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[81],{887:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/Instagram.29061cc8.svg"}}]);
+//# sourceMappingURL=81.f4bdad47.chunk.js.map

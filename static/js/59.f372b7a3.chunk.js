@@ -1,0 +1,2 @@
+(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[59],{865:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/BentoMenu.1f7afa4a.svg"}}]);
+//# sourceMappingURL=59.f372b7a3.chunk.js.map
